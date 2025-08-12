@@ -21,6 +21,11 @@
 </template>
 
 <script>
+    // import * as tf from '@tensorflow/tfjs';
+
+    // const model = await tf.loadLayersModel();
+    // console.log(model);
+
     export default {
         data() {
             return {
